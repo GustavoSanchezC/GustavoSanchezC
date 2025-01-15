@@ -1,82 +1,82 @@
-# ¡Hola! Soy **Sánchez Castro Gustavo** 👋
+# Hello! I am **Sánchez Castro Gustavo** 👋
 
-**Egresado en Ciencias de la Computación** con interés en seguridad informática, redes y desarrollo de software. Me motiva aplicar mis conocimientos en un entorno profesional, con especial interés en el área de seguridad, para seguir aprendiendo y creciendo en dicho campo.
-
----
-
-### 📞 Contacto
-- **Correo Electrónico**: [gustavodfyu@ciencias.unam.mx](mailto:gustavodfyu@ciencias.unam.mx)
-
+**Graduate in Computer Science** with an interest in information security, networks, and software development. I am motivated to apply my knowledge in a professional environment, with a special focus on security, to keep learning and growing in this field.
 
 ---
 
-### 🎓 Educación
-**Facultad de Ciencias UNAM**  
-*Licenciatura en Ciencias de la Computación*  
-**Agosto 2020 – Diciembre 2024**  
-**Promedio**: 9.22
+### 📞 Contact
+- **Email**: [gustavodfyu@ciencias.unam.mx](mailto:gustavodfyu@ciencias.unam.mx)
 
 ---
 
-### 💻 Experiencia Académica y Proyectos Clave
-
-- **Práctica en Criptografía y Seguridad: Ransomware (Python)**  
-  Implementación de un ransomware en un entorno controlado utilizando una máquina virtual con Windows. Análisis de riesgos antes y después de la ejecución utilizando Wazuh para la monitorización de seguridad.
-
-- **Escaneo de Dispositivos y Puertos**  
-  Creación de scripts en PowerShell y Python para escanear redes y detectar sistemas operativos, así como escanear puertos TCP/UDP abiertos, utilizando optimización con múltiples hilos.
-
-- **Ataques de Diccionario**  
-  Implementación de ataques de diccionario usando herramientas como Hashcat y John the Ripper para evaluar la seguridad de contraseñas en un entorno controlado.
-
-- **Proyecto de Ingeniería de Software - CienciasTop**  
-  Plataforma para la gestión y administración de rentas de productos en la Facultad de Ciencias. Permite la creación y administración de usuarios con diferentes roles y el seguimiento del historial de rentas.
-
-- **Implementación de Prototipo de Base de Datos**  
-  Diseño y desarrollo de una base de datos utilizando PostgreSQL para la gestión eficiente de la información de una cadena de tiendas. Incluye la creación de modelos Entidad-Relación y relacional, scripts SQL para la definición del esquema, inserción de datos, consultas y lógica de negocio.
+### 🎓 Education
+**Faculty of Sciences, UNAM**  
+*Bachelor's in Computer Science*  
+**August 2020 – December 2024**  
+**GPA**: 9.22
 
 ---
 
-### 📚 Asignaturas Clave
-- Sistemas Operativos
-- Redes de Computadoras
-- Criptografía y Seguridad
-- Seguridad Ofensiva
+### 💻 Academic Experience and Key Projects
+
+- **Cryptography and Security Practice: Ransomware (Python)**  
+  Implemented a ransomware in a controlled environment using a virtual machine with Windows. Conducted risk analysis before and after execution using Wazuh for security monitoring.
+
+- **Device and Port Scanning**  
+  Created PowerShell and Python scripts to scan networks and detect operating systems, as well as scan open TCP/UDP ports, utilizing optimization with multiple threads.
+
+- **Dictionary Attacks**  
+  Implemented dictionary attacks using tools like Hashcat and John the Ripper to assess password security in a controlled environment.
+
+- **Software Engineering Project - CienciasTop**  
+  Platform for managing and administering product rentals at the Faculty of Sciences. It allows creating and managing users with different roles and tracking rental history.
+
+- **Database Prototype Implementation**  
+  Designed and developed a database using PostgreSQL for efficient information management in a chain of stores. Includes creating Entity-Relationship models and relational models, SQL scripts for schema definition, data insertion, queries, and business logic.
+
+---
+
+### 📚 Key Courses
+- Operating Systems
+- Computer Networks
+- Cryptography and Security
+- Offensive Security
 - Blockchain
-- Bases de Datos (PostgreSQL)
-- Desarrollo de Software
+- Databases (PostgreSQL)
+- Software Development
 
 ---
 
-### 🔧 Habilidades Técnicas
-- **Lenguajes de Programación**: Java, Python, SQL, Haskell, C++
-- **Sistemas Operativos**: Windows, Linux (Bash, CMD)
-- **Frameworks y Herramientas**: Django, Git, Docker, Wireshark, Hashcat, Virtualización (VirtualBox, VMware), UML
-- **Bases de Datos**: PostgreSQL, SQL
-- **Desarrollo Web**: HTML/CSS, JavaScript
-- **Idiomas**: Español, Inglés (Profesional)
+### 🔧 Technical Skills
+- **Programming Languages**: Java, Python, SQL, Haskell, C++
+- **Operating Systems**: Windows, Linux (Bash, CMD)
+- **Frameworks and Tools**: Django, Git, Docker, Wireshark, Hashcat, Virtualization (VirtualBox, VMware), UML
+- **Databases**: PostgreSQL, SQL
+- **Web Development**: HTML/CSS, JavaScript
+- **Languages**: Spanish, English (Professional)
 
 ---
 
-### 🤝 Habilidades Blandas
-- Comunicación efectiva
-- Resolución de problemas
-- Trabajo en equipo
-- Adaptabilidad
+### 🤝 Soft Skills
+- Effective communication
+- Problem-solving
+- Teamwork
+- Adaptability
 
 ---
 
-### 🌱 Actualmente estoy aprendiendo:
-- **Seguridad en redes y ciberseguridad**: Mejorar mis habilidades en protección de sistemas y redes.
-- **Desarrollo de aplicaciones web**: Profundizar en tecnologías modernas como React y Angular.
-- **Blockchain**: Explorando la implementación de soluciones descentralizadas.
+### 🌱 Currently Learning:
+- **Network Security and Cybersecurity**: Enhancing my skills in system and network protection.
+- **Web Application Development**: Diving deeper into modern technologies like React and Angular.
+- **Blockchain**: Exploring the implementation of decentralized solutions.
 
 ---
 
-### 📫 ¿Quieres contactarme?
-No dudes en enviarme un mensaje a través de mi [correo electrónico](mailto:gustavodfyu@ciencias.unam.mx).
+### 📫 Want to contact me?
+Feel free to reach out to me via my [email](mailto:gustavodfyu@ciencias.unam.mx).
 
 ---
+
 
 <!--
 **GustavoSanchezC/GustavoSanchezC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
