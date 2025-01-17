@@ -1,81 +1,72 @@
-# Hello! I am **Sánchez Castro Gustavo** 👋
-
-**Graduate in Computer Science** with an interest in information security, networks, and software development. I am motivated to apply my knowledge in a professional environment, with a special focus on security, to keep learning and growing in this field.
-
----
-
-### 📞 Contact
-- **Email**: [gustavodfyu@ciencias.unam.mx](mailto:gustavodfyu@ciencias.unam.mx)
+# 👨‍💻 Gustavo Sánchez Castro  
+¡Bienvenidos a mi espacio en GitHub! Aquí es donde la curiosidad por la informática se encuentra con la pasión por construir sistemas seguros, eficientes y creativos. 🚀  
 
 ---
 
-### 🎓 Education
-**Faculty of Sciences, UNAM**  
-*Bachelor's in Computer Science*  
-**August 2020 – December 2024**  
-**GPA**: 9.22
+## 🎓 Acerca de mí  
+Soy egresado de la Licenciatura en Ciencias de la Computación de la **Universidad Nacional Autónoma de México** (UNAM), Facultad de Ciencias, con un promedio destacado de **9.22**. A lo largo de mi formación, he adquirido conocimientos sólidos en **desarrollo de software** y fundamentos de **seguridad informática**.  
+
+💡 Mi misión es aplicar y expandir mi conocimiento para contribuir al diseño de tecnologías más seguras y robustas. Siempre estoy en busca de nuevos retos y oportunidades para aprender.  
 
 ---
 
-### 💻 Academic Experience and Key Projects
+## 🚀 Proyectos Destacados  
+### 🌐 **Plataforma web de gestión de Rentas**  
+Desarrollo de una plataforma web para gestionar la renta de productos de manera eficiente y segura.  
+- **Características:** Gestión de usuarios y rentas, sistema de roles, autenticación y autorización, interfaz intuitiva.  
+- **Tecnologías:** Python, Django, JavaScript, HTML, Bootstrap, CSS, PostgreSQL, Docker.  
 
-- **Cryptography and Security Practice: Ransomware (Python)**  
-  Implemented a ransomware in a controlled environment using a virtual machine with Windows. Conducted risk analysis before and after execution using Wazuh for security monitoring.
+### 🛒 **Sistema de Bases de Datos para una Cadena de Tiendas**  
+Diseño e implementación de un sistema de bases de datos robusto.  
+- **Incluye:** Modelo entidad-relación y relacional, scripts SQL para creación y consultas, procedimientos almacenados y triggers.  
 
-- **Device and Port Scanning**  
-  Created PowerShell and Python scripts to scan networks and detect operating systems, as well as scan open TCP/UDP ports, utilizing optimization with multiple threads.
-
-- **Dictionary Attacks**  
-  Implemented dictionary attacks using tools like Hashcat and John the Ripper to assess password security in a controlled environment.
-
-- **Software Engineering Project - CienciasTop**  
-  Platform for managing and administering product rentals at the Faculty of Sciences. It allows creating and managing users with different roles and tracking rental history.
-
-- **Database Prototype Implementation**  
-  Designed and developed a database using PostgreSQL for efficient information management in a chain of stores. Includes creating Entity-Relationship models and relational models, SQL scripts for schema definition, data insertion, queries, and business logic.
+### 💳 **Simulación de un Banco Digital**  
+Un sistema bancario simulado con enfoque modular y multilingüe.  
+- **Implementación:** Patrones de diseño como Strategy, Proxy, Singleton, y Template.  
+- **Tecnologías:** Java y arquitectura MVC para escalabilidad y POO.  
 
 ---
 
-### 📚 Key Courses
-- Operating Systems
-- Computer Networks
-- Cryptography and Security
-- Offensive Security
-- Blockchain
-- Databases (PostgreSQL)
-- Software Development
+## 🛠️ Habilidades Técnicas  
+- **Lenguajes de Programación:** C++, Python, Java, JavaScript, HTML+CSS.  
+- **Frameworks:** Django.  
+- **Bases de Datos:** PostgreSQL, SQL.  
+- **Herramientas:** VSCode, Git, GitHub, Wireshark, VMware, UML.  
 
 ---
 
-### 🔧 Technical Skills
-- **Programming Languages**: Java, Python, SQL, Haskell, C++
-- **Operating Systems**: Windows, Linux (Bash, CMD)
-- **Frameworks and Tools**: Django, Git, Docker, Wireshark, Hashcat, Virtualization (VirtualBox, VMware), UML
-- **Databases**: PostgreSQL, SQL
-- **Web Development**: HTML/CSS, JavaScript
-- **Languages**: Spanish, English (Professional)
+## 📚 Educación Complementaria  
+- **Cursos Relevantes:**  
+  - Ingeniería de Software  
+  - Bases de Datos  
+  - Seguridad Ofensiva  
+  - Redes de Computadoras  
+  - Criptografía y Seguridad  
+  - Análisis de Algoritmos  
 
 ---
 
-### 🤝 Soft Skills
-- Effective communication
-- Problem-solving
-- Teamwork
-- Adaptability
+## 🎯 Áreas de Interés  
+✨ Desarrollo de software  
+🔐 Seguridad informática  
+🌐 Redes y sistemas operativos  
 
 ---
 
-### 🌱 Currently Learning:
-- **Network Security and Cybersecurity**: Enhancing my skills in system and network protection.
-- **Web Application Development**: Diving deeper into modern technologies like React and Angular.
-- **Blockchain**: Exploring the implementation of decentralized solutions.
+## 💡 Habilidades Blandas  
+✔️ Resolución de problemas  
+✔️ Pensamiento crítico  
+✔️ Trabajo en equipo  
+✔️ Aprendizaje continuo  
 
 ---
 
-### 📫 Want to contact me?
-Feel free to reach out to me via my [email](mailto:gustavodfyu@ciencias.unam.mx).
+## 📫 Contacto  
+📞 **Teléfono:** 5549129004  
+📧 **Correo:** [gustavodfyu@ciencias.unam.mx](mailto:gustavodfyu@ciencias.unam.mx)  
+🐱‍💻 **GitHub:** [GustavoSanchezC](https://github.com/GustavoSanchezC)  
 
----
+
 
 
 <!--
